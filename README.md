@@ -1,4 +1,4 @@
-<h1><img src="https://raw.github.com/c0ding/lychee/master/doc/lychee.png" height=70 alt="lychee" title="lychee">lychee</h1>
+<h1><img src="https://raw.githubusercontent.com/c0ding/lychee/master/doc/lychee.png" height=70 alt="lychee" title="lychee">lychee</h1>
 
 **lychee** is a minimal static blog generator based on [Flask](http://flask.pocoo.org/).
 
